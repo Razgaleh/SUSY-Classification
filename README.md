@@ -1,4 +1,11 @@
 # SUSY-Classification
-Deep Learning Model for SUSY Particle Classification
+Deep Learning Model for SUSY Particle Classification 
+
+
 Final Project @ University of London
-Currently at Prototype Stage
+
+
+Currently at Prototype Stage 
+
+
+
