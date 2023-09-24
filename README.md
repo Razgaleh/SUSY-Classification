@@ -14,6 +14,7 @@ Final Deep Learning Model Architecture:
 ![Final Model Summary](final_model_summary.png)
 
 
+<img src="final_model_summary.png" alt="Final Model Summary" style="width:200px;height:100px;">
 
 
 
