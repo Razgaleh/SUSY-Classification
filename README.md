@@ -9,12 +9,7 @@ Final AUC = 87.46%
 
 Final Accuracy (ACC) = 80.16%
 
-Final Deep Learning Model Architecture: 
-
-![Final Model Summary](final_model_summary.png)
-
-
-<img src="final_model_summary.png" alt="Final Model Summary" style="width:200px;height:100px;">
+Final Deep Learning Model Architecture: 3 hidden layers with 128 capacity with a dropout layer of 0.025
 
 
 
